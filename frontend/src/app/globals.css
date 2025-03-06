@@ -1,0 +1,9 @@
+:root {
+  --primary: #2563eb;
+  --secondary: #4f46e5;
+  --accent: #7c3aed;
+}
+
+.bg-gradient {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 50%, var(--accent) 100%);
+} 
